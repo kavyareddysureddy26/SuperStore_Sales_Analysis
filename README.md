@@ -1,11 +1,12 @@
 ## Superstore Sales & Profitability Analysis
 
+An end-to-end data analysis project focused on identifying profitability drivers and evaluating the impact of discount strategies on business performance.
+
 ## Project Overview
 
 This project performs an end-to-end sales and profitability analysis using Python, SQL, and Power BI.
 
 The objective was to analyze sales performance, evaluate discount strategies, and identify the root causes of reduced profitability across categories and sub-categories.
-
 
 
 ## Tools & Technologies
@@ -73,3 +74,5 @@ The Furniture category underperforms mainly due to:
 	•	Data Storytelling
 	•	Dashboard Design
 	•	Business Insight Generation
+
+This project demonstrates the ability to translate raw data into strategic business insights using analytics and visualization tools.
