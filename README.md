@@ -19,13 +19,13 @@ The objective was to analyze sales performance, evaluate discount strategies, an
 
 ## Executive Summary
 
-Key Metrics
+## Key Metrics
 	•	Total Sales: 1.69M
 	•	Total Profit: 219.82K
 	•	Average Discount: 15.46%
 	•	Profit Margin: 12.97%
 
-Key Insights
+## Key Insights
 	•	Revenue accelerated significantly after 2015.
 	•	Technology is the most profitable category.
 	•	West region generates the highest total profit.
@@ -40,7 +40,7 @@ Key Insights
 
 A detailed analysis was conducted to evaluate how discounting affects profitability.
 
-Findings
+# Findings
 	•	Higher discount levels correlate with lower profit margins.
 	•	Furniture category applies the highest average discount.
 	•	Sub-category Tables operates at negative profit margins.
@@ -49,8 +49,7 @@ Findings
 
 
 ## Root Cause Identified
-
-The Furniture category underperforms mainly due to:
+##### The Furniture category underperforms mainly due to:
 	•	High average discounting
 	•	Negative margins in Tables and Bookcases
 	•	Inefficient pricing strategy
