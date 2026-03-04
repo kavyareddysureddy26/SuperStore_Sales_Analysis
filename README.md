@@ -6,7 +6,7 @@ This project performs an end-to-end sales and profitability analysis using Pytho
 
 The objective was to analyze sales performance, evaluate discount strategies, and identify the root causes of reduced profitability across categories and sub-categories.
 
-⸻
+
 
 ## Tools & Technologies
 	•	Python (Pandas, Matplotlib, Seaborn)
@@ -15,7 +15,6 @@ The objective was to analyze sales performance, evaluate discount strategies, an
 	•	DAX Measures
 	•	Data Cleaning & Transformation
 
-⸻
 
 ## Executive Summary
 
@@ -34,7 +33,7 @@ Key Insights
 <img width="1158" height="657" alt="image" src="https://github.com/user-attachments/assets/ebbf55df-bb33-41a5-b9fe-3ec891506592" />
 <img width="1163" height="661" alt="image" src="https://github.com/user-attachments/assets/62a60498-965d-48f8-9883-18414537db92" />
 
-⸻
+
 
 ## Discount Impact Analysis
 
@@ -46,7 +45,7 @@ Findings
 	•	Sub-category Tables operates at negative profit margins.
 	•	Excessive discounting is the primary driver of reduced profitability.
 
-⸻
+
 
 ## Root Cause Identified
 
@@ -55,7 +54,7 @@ The Furniture category underperforms mainly due to:
 	•	Negative margins in Tables and Bookcases
 	•	Inefficient pricing strategy
 
-⸻
+
 
 ## Business Recommendations
 	•	Re-evaluate discount strategy for Furniture.
@@ -63,7 +62,7 @@ The Furniture category underperforms mainly due to:
 	•	Implement pricing optimization based on margin thresholds.
 	•	Prioritize high-margin categories such as Technology.
 
-⸻
+
 
 ## Skills Demonstrated
 	•	Data Cleaning & Transformation
